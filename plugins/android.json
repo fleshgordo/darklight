@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.example.darklight1"
+        },
+        "cordova-plugin-fullscreen": {
+            "PACKAGE_NAME": "com.example.darklight1"
+        },
+        "cordova-plugin-brightness": {
+            "PACKAGE_NAME": "com.example.darklight1"
+        }
+    },
+    "dependent_plugins": {}
+}
