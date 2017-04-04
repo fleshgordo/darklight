@@ -33,6 +33,9 @@ body {
 .video4 {
   width: 112%;
 }
+.videoPortrait {
+  width: 112%;
+}
 #video {
   /*display: block;
   position: fixed;

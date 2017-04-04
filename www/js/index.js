@@ -28,12 +28,9 @@ var app = {
 
   // deviceready Event Handler
   onDeviceReady: function () {
-    var interval = setInterval(function () {
-      var currentTime = Math.floor(+new Date() / 1000);
-      if (currentTime % app.settings.videoLength === 0) {
+
         app.startvideo();
-      }
-    }, 1000);
+
 
     app.goFullScreen();
     app.goFullBrightness();
